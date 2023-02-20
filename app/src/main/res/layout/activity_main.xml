@@ -13,14 +13,14 @@
         android:layout_marginTop="30dp"
         android:text="넥슨은 로또 번호를 뿌려라!"
         android:textColor="@color/black"
-        android:textSize="50sp"
+        android:textSize="30sp"
         android:textStyle="bold" />
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="150dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#ff0000"
         android:background="@drawable/shape_lotto">
 
@@ -36,10 +36,10 @@
     </FrameLayout>
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="260dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#00FF0A"
         android:background="@drawable/shape_lotto">
 
@@ -55,10 +55,10 @@
     </FrameLayout>
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="370dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#2196F3"
         android:background="@drawable/shape_lotto">
 
@@ -74,10 +74,10 @@
     </FrameLayout>
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="480dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="205dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#FF9800"
         android:background="@drawable/shape_lotto">
 
@@ -93,10 +93,10 @@
     </FrameLayout>
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="590dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#5C00FF"
         android:background="@drawable/shape_lotto">
 
@@ -112,10 +112,10 @@
     </FrameLayout>
 
     <FrameLayout
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginStart="700dp"
-        android:layout_marginTop="500dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="340dp"
+        android:layout_marginTop="200dp"
         android:backgroundTint="#DA00FF"
         android:background="@drawable/shape_lotto">
 
@@ -136,7 +136,7 @@
         android:layout_height="100dp"
         android:layout_gravity="center"
         android:layout_marginHorizontal="32dp"
-        android:layout_marginTop="500dp"
+        android:layout_marginTop="350dp"
         android:backgroundTint="@color/black"
         android:textSize="30dp"
         android:textColor="@color/white"
